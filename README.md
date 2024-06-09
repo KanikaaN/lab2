@@ -88,7 +88,7 @@ We evaluate both models using accuracy, confusion matrix, and classification rep
 
 1. Ensure you have the dataset file wdbc.data in the same directory as your Jupyter notebook.
 2. Run the breast_cancer_classification.ipynb notebook step by step to see the process of building and evaluating the models.
-3. (Optional) The trained models are saved as breast_cancer_rf_model.pkl and breast_cancer_svm_model.pkl.
+
 
 ## Requirements
 
