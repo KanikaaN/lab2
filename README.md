@@ -1,5 +1,5 @@
 # lab2
-Breast Cancer Wisconsin (Diagnostic) Data Set - Machine Learning Models
+# Breast Cancer Wisconsin (Diagnostic) Data Set - Machine Learning Models
 
 This repository contains a Jupyter notebook that demonstrates the process of building, training, and evaluating machine learning models using the Breast Cancer Wisconsin (Diagnostic) dataset.
 
